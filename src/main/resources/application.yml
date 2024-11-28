@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      username: umut
+      password: yenidil
+      host: localhost
+      port: 27017
+      database: spring_chat
+      authentication-database: admin
+server:
+  port: 8088
